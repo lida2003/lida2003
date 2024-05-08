@@ -2,7 +2,6 @@
 
 - 博客：https://blog.csdn.net/lida2003
 - bilibili：https://space.bilibili.com/471634154
-- 邮箱：lida_mail@163.com
 
 ## 技术管理
 
