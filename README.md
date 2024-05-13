@@ -119,12 +119,13 @@ Overall, the CTO plays a critical role in driving technological innovation, ensu
 - Engineering Samples (工程样品)
 - Baseline Code (基线代码)
 - Feature List (特性列表)
-- Version Management (版本管理)
+- Version Management (版本管理，硬件/结构/软件等)
 - Issue Tracking (问题定位)
 - Product Testing (产品测试)
 - System Testing (系统测试)
 - Production Testing (生产测试)
 - Fixture Specifications (治具规格)
+- RMA Error Code List (RMA错误码列表)
 - RMA Records (RMA记录)
 - Pilot Run Reports (试产报告)
 - Bug List (BUG清单)
@@ -142,8 +143,8 @@ Committed to quantifiable R&D performance assessment and technical talent manage
 - Technology Accumulation (Patents, Reports, Pre-research, etc.) //技术沉淀（专利，报告，预研等）
 
 ## Invention Patent
-- 【1】【授权，个人】一种部件生命期监测方法
-- 【2】【授权，个人】一种特种设备现场维保监控方法及系统
+- 【1】【授权，个人】[一种部件生命期监测方法](https://zhuanli.tianyancha.com/12f16c2a2c8745eefac3ecff8b063651)
+- 【2】【授权，个人】[一种特种设备现场维保监控方法及系统](https://zhuanli.tianyancha.com/4f2b64585f818e0865c1ad555e6a165d)
 
 ## Work History
 
