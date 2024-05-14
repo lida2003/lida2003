@@ -1,8 +1,5 @@
 ## Hi there, welcome! 👋
 
-- blog(博客)：https://blog.csdn.net/lida2003
-- bilibili(短视频)：https://space.bilibili.com/471634154
-
 ## responsibilities 
 
 1. **Technology Strategy**: Developing and implementing the overall technology strategy aligned with the business goals. This involves assessing current and emerging technologies, understanding market trends, and making decisions about which technologies to invest in.
