@@ -1,6 +1,6 @@
 ## Hi there, welcome! 👋
 
-## responsibilities 
+## Responsibilities 
 
 1. **Technology Strategy**: Developing and implementing the overall technology strategy aligned with the business goals. This involves assessing current and emerging technologies, understanding market trends, and making decisions about which technologies to invest in.
 
