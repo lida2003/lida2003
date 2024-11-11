@@ -22,7 +22,7 @@ Committed to quantifiable R&D performance assessment and technical talent manage
 - Base Transceiver Station (OpenBTS, Linux/Vxworks)
 - RFID Internet of Things (IoT) system (Linux/RTOS)
 - Smart Lighting System (Linux/RTOS)
-- Copter/Rover (betaflight/inav/ardupilot/paparazzi)
+- Copter/Plane/Rover/Boat (betaflight/inav/ardupilot/PX4/paparazzi)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lida2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
