@@ -9,7 +9,7 @@ Committed to quantifiable R&D performance assessment and technical talent manage
 - System-Level Complex Bug Localization Methods (系统级复杂BUG定位方法)
 - White-Box Self-testing for Unit Module Development (单元模块开发白盒自测)
 - Black/Gray-Box Testing for Simulation Modules (模拟仿真模块黑/灰盒测试)
-- Automated Product and System Testing (自动化产品与系统测试)
+- Automated Product and System Testing/Standard (自动化产品与系统[测试/标准](https://blog.csdn.net/lida2003/article/details/143567424))
 - Technology Accumulation (Patents, Reports, Pre-research, etc.) //技术沉淀（专利，报告，预研等）
 
 ## Invention Patent
