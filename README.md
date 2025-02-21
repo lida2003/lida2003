@@ -3,8 +3,8 @@
 ## Personal Career Development Direction
 
 Committed to quantifiable R&D performance assessment and technical talent management, as well as R&D technology accumulation. 
+- Dedicated to the full lifecycle system-level product operation and quantitative performance evaluation (致力于全生命周期系统级产品运营和量化绩效考核)
 - [Product Design Responsibilities and Quantitative Metrics (产品设计职责和量化衡量尺度)](https://blog.csdn.net/lida2003/article/details/139960868)
-
 - Framework and Reusability Modular Design (框架和重用性模块化设计)
 - System-Level Complex Bug Localization Methods (系统级复杂BUG定位方法)
 - White-Box Self-testing for Unit Module Development (单元模块开发白盒自测)
